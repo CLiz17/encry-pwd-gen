@@ -1,4 +1,4 @@
-# password with crypto concepts
+# Encryption
 
 1. Hash - chop&mix
 
