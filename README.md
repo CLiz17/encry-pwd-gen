@@ -1,15 +1,10 @@
-# Encryption
+# Data encryption algorithms (.py) 
 
-1. Hash - chop&mix
-
-- not reversible
-- same password, same hash --> vulnerablity (randow table)
-- so chop chop!
-
-2. Salting - random value added to password before hashing
-
-3. HMAC - key is also generate with salted pasword
-
-4. Cipher text - Encryption
-
-5. Public-private key cryption
+1. TripleDES
+2. Twofish encryption algorithm
+3. Blowfish encryption algorithm
+4. Advanced Encryption Standard (AES)
+5. IDEA encryption algorithm
+6. MD5 encryption algorithm
+7. HMAC encryption algorithm
+8. RSA security
